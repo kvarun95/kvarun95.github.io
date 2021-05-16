@@ -12,7 +12,11 @@
   {% endif %}
   </div>
 
-  <div id="{{entry.key}}" class="col-sm-8">
+  <div class="col-sm-3 center-block">
+    <img src="/assets/img/publication/{{ entry.thumbnail }}" class="img-responsive publication-img" alt="">
+  </div>
+
+  <div id="{{entry.key}}" class="col-sm-7">
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
@@ -21,9 +25,9 @@
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
           {% if author.last == site.scholar.last_name%}
-            {% if site.scholar.first_name contains author.first%}
+            <!-- {% if site.scholar.first_name contains author.first%} -->
               {% assign author_is_self = true %}
-            {% endif %}
+            <!-- {% endif %} -->
           {% endif %}
           {% assign coauthor_url = nil %}
           {% if site.data.coauthors[author.last] %}
@@ -36,7 +40,7 @@
           {% endif %}
           
           {% if forloop.length == 1 %}
-            {% if author_is_self %}
+          {% if author.last == site.scholar.last_name%}
               <em>{{author.last}}, {{author.first}}</em>
             {% else %}
               {{author.last}}, {{author.first}}
