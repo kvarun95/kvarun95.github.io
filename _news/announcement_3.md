@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-05-08 00:00:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
+First ever submission from our group to ICML was accepted!! Our work develops theory and algos for incorporating a prior image in the image recon. using GANs. [Link.](https://arxiv.org/abs/2102.12525)

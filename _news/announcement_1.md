@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-05-16 15:59:00-0400
+date: 2021-03-22 00:00:00-0400
 inline: true
 ---
 
-Coming soon.
+I was awarded the Oak Ridge Institute and FDA fellowship to evaluate GANs for medical imaging applications. Read more [here](https://bioengineering.illinois.edu/news/varun-kelkar-oak-ridge-fellowship).
