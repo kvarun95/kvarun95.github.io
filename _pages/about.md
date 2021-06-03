@@ -2,15 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">University of Illinois Urbana Champaign</a>. Address. Contacts. Moto. Etc.
+description: <br><a href="https://ece.illinois.edu">Department of Electrical and Computer Engineering (ECE)</a><br> University of Illinois at Urbana-Champaign.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -18,7 +15,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Under construction.
+I am a PhD candidate with the [Computational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/), advised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). I work on **computational imaging, inverse problems, signal processing, machine learning (ML), optics, and imaging science**. My work is about developing ML-based algorithms for solving ill-posed imaging inverse problems, with applications to medical imaging. I have also worked on compressive microscopy, phase retrieval, physics of optical tomography, statistical optics and objective assessment of image quality. 
+
+I completed my undergrad (B.Tech.) in Engineering Physics from [Indian Institute of Technology Madras](https://iitm.ac.in) in July 2017, and my MS in ECE from UIUC in August 2019. 
+
+I did a research internship in the Algorithmic Systems Group at [Analog Garage, Analog Devices Inc.](https://www.analog.com/en/landing-pages/001/analog-garage.html) in summer of 2019 where I worked on algorithms for 3D time-of-flight imaging, and another at [LIGO 40m Lab, Caltech](https://www.ligo.caltech.edu/) in summer of 2016 where I worked on audio processing algorithms for interferometer signals.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -7,7 +7,7 @@
       {% for item in news limit: site.news_limit %}
         <tr>
           <td scope="row">
-            <abbr class="badge news-title">
+            <abbr class="badge", style="background-color: var(--global-theme-color);">
               {{ item.date | date: "%b %-d, %Y" }}
             </abbr>
           </td>
