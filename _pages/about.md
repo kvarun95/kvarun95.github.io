@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <br><a href="https://ece.illinois.edu">Department of Electrical and Computer Engineering (ECE)</a><br> <a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a>.
+description: <br><a href="https://ece.illinois.edu">Department of Electrical and Computer Engineering (ECE)</a><br> <a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a><br> <a>Computational Imaging | Signal Processing | ML | Imaging Science | Optics </a>.
 
 profile:
   align: right
@@ -15,7 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 
-I am a PhD candidate with the [Computational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/), advised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). I work on **computational imaging, inverse problems, signal processing, machine learning (ML), optics, and imaging science**. My work is about developing ML-based algorithms for solving ill-posed imaging inverse problems, with applications to medical imaging. I have also worked on compressive microscopy, phase retrieval, physics of optical tomography, statistical optics and objective assessment of image quality. 
+I am a PhD candidate with the [Computational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/), advised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). 
+
+My work is about developing ML-based algorithms for solving ill-posed imaging inverse problems, with applications to medical imaging. I have also worked on compressive microscopy, phase retrieval, physics of optical tomography, statistical optics and objective assessment of image quality. 
 
 I completed my undergrad (B.Tech.) in Engineering Physics from [Indian Institute of Technology Madras](https://www.iitm.ac.in/) in July 2017, and my MS in ECE from UIUC in August 2019. 
 
