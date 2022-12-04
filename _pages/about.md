@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <br><a href="https://ece.illinois.edu">Department of Electrical and Computer Engineering (ECE)</a><br> <a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a><br> <a>Computational Imaging | Signal Processing | ML | Imaging Science | Optics </a>.
+description: <br><a href="https://ece.illinois.edu">Department of Electrical and Computer Engineering (ECE)</a><br> <a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a>
 
 profile:
   align: right
