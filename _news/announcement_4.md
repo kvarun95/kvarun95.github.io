@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-11-16 00:00:00-0400
+date: 2022-07-14 00:00:00-0400
 inline: true
 ---
 
-Our paper about task-based evaluation of deep image superresolution algorithms was accepted to SPIE Journal of Medical Imaging! [Link.](https://arxiv.org/abs/2107.02338)
+I was invited to give a talk on our work on assessing GANs at the AAPM Annual Meeting tutorial session on Assessment of Deep-Learning Technologies in Medical Imaging! Link to the talk [here.](https://aapm2022.pathable.co/meetings/virtual/zCECeyxwGwcbG9DFb)
