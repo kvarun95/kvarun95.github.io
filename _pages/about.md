@@ -21,7 +21,7 @@ My work is about developing ML-based algorithms for solving ill-posed imaging in
 
 I completed my undergrad (B.Tech.) in Engineering Physics from [Indian Institute of Technology Madras](https://www.iitm.ac.in/) in July 2017, and my MS in ECE from UIUC in August 2019. 
 
-I did a research internship in the Algorithmic Systems Group at [Analog Garage, Analog Devices Inc.](https://www.analog.com/en/landing-pages/001/analog-garage.html) in summer of 2019 where I worked on algorithms for 3D time-of-flight imaging, and another at [LIGO 40m Lab, Caltech](https://www.ligo.caltech.edu/) in summer of 2016 where I worked on audio processing algorithms for interferometer signals.
+I have done research internships at [Mitsubishi Electric Research Labs](https://www.merl.com/) (summer 2022), Algorithmic Systems Group at [Analog Garage, Analog Devices Inc.](https://www.analog.com/en/landing-pages/001/analog-garage.html) (summer 2019), and [LIGO 40m Lab, Caltech](https://www.ligo.caltech.edu/) (summer 2016). I worked on various signal processing and imaging problems throughout these internships. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
