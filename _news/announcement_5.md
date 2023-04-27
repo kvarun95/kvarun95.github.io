@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-04 00:00:00-0400
+date: 2023-04-05 00:00:00-0400
 inline: true
 ---
 
-I am actively looking for R&D positions in industry and academia. Please [contact me](mailto:vak2@illinois.edu) if you have come across an interesting opportunity!
+I gave a talk about our work on evaluating generative models in the [6th Health Data Analytics Workshop](https://healtheng.illinois.edu/healthdatasummit2023) hosted at University of Illinois!
