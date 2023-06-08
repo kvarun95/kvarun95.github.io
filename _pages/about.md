@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <br><a href="https://www.analog.com/en/about-adi/incubators/analog-garage.html">Algorithmic Systems Group, Analog Garage</a><br> <a href="https://www.analog.com/en/index.html">Analog Devices, Inc.</a>
+description: <br><a Research Scientist</a><br><a href="https://www.analog.com/en/about-adi/incubators/analog-garage.html">Algorithmic Systems Group, Analog Garage</a><br> <a href="https://www.analog.com/en/index.html">Analog Devices, Inc.</a>
 
 profile:
   align: right
