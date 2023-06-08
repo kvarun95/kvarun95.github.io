@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-I am a Research Scientist in the Algorithmic Systems Group within the Analog Garage, which is the research incubator of Analog Devices, Inc. My research is about computational imaging and sensing algorithms.
+I am a Research Scientist in the Algorithmic Systems Group within the Analog Garage, which is the research incubator of Analog Devices, Inc. My research is about computational imaging and sensing algorithms. 
 
 I defended my PhD in [Electrical and Computer Engineering](https://ece.illinois.edu/) from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in May, 2023. I was a part of the [Computational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/), advised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). 
 
