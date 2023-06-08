@@ -18,7 +18,7 @@ I am a Research Scientist in the Algorithmic Systems Group within the Analog Gar
 
 I defended my PhD in [Electrical and Computer Engineering](https://ece.illinois.edu/) from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in May, 2023. I was a part of the [Computational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/), advised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). 
 
-My work is about developing ML-based algorithms for solving ill-posed imaging inverse problems, with applications to medical imaging. I have also worked on compressive microscopy, phase retrieval, physics of optical tomography, statistical optics and objective assessment of image quality. 
+My PhD research was about developing ML-based algorithms for solving ill-posed imaging inverse problems, with applications to medical imaging. I have also worked on compressive microscopy, phase retrieval, physics of optical tomography, statistical optics and objective assessment of image quality. 
 
 I completed my undergrad (B.Tech.) in Engineering Physics from [Indian Institute of Technology Madras](https://www.iitm.ac.in/) in July 2017, and my MS in ECE from UIUC in August 2019. 
 
