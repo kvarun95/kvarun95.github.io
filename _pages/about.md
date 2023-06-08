@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <br><a href="https://ece.illinois.edu">Department of Electrical and Computer Engineering (ECE)</a><br> <a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a>
+description: <br><a href="https://www.analog.com/en/about-adi/incubators/analog-garage.html">Algorithmic Systems Group, Analog Garage</a><br> <a href="https://www.analog.com/en/index.html">Analog Devices, Inc.</a>
 
 profile:
   align: right
@@ -14,8 +14,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
+I am a Research Scientist in the Algorithmic Systems Group within the Analog Garage, which is the research incubator of Analog Devices, Inc. My research is about computational imaging and sensing algorithms.
 
-I am a PhD candidate with the [Computational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/), advised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). 
+I defended my PhD in [Electrical and Computer Engineering](https://ece.illinois.edu/) from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in May, 2023. I was a part of the [Computational Imaging Science Lab](https://anastasio.bioengineering.illinois.edu/), advised by [Prof. Mark A. Anastasio](https://bioengineering.illinois.edu/people/maa). 
 
 My work is about developing ML-based algorithms for solving ill-posed imaging inverse problems, with applications to medical imaging. I have also worked on compressive microscopy, phase retrieval, physics of optical tomography, statistical optics and objective assessment of image quality. 
 
